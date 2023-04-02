@@ -1,0 +1,5 @@
+conta_comanda1_29-03-2023_21-47-15: 
+Hambúrguer : R$14.99 
+Refrigerante : R$5.99 
+Soma total : R$20.98 
+ 
